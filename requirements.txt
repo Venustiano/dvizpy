@@ -2,5 +2,6 @@ RISE
 matplotlib
 seaborn
 plotnine
+adjustText
 plotly
 bokeh
