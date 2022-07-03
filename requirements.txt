@@ -5,3 +5,6 @@ plotnine
 adjustText
 plotly
 bokeh
+geopandas
+mizani
+plydata
