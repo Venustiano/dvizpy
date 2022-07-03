@@ -1,3 +1,4 @@
+RISE
 matplotlib
 seaborn
 plotnine
